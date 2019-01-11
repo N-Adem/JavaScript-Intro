@@ -10,8 +10,6 @@ console.log("The sum of ",number,"and",otherNum, "=",sum);
 if (number < otherNum)
 {
     console.log("number is larger than otherNum");
-    while(number < otherNum)
-    {
-        
-    }
 }
+
+var  myString = "hello";
